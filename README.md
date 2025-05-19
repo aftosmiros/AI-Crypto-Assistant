@@ -72,7 +72,7 @@ Top 50 coins by market cap including:
 - Binance Coin (BNB)
 - Solana (SOL)
 - Ripple (XRP)
-- ![Full list available](./assets/top50_coins.txt)
+- [Full list available](./assets/top50_coins.txt)
 
 ## Demo
 ![Demo Screenshot](./assets/aica_home.png)
