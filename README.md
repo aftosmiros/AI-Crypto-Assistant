@@ -1,6 +1,6 @@
 # AI Crypto Assistant
 
-[Demo Screenshot](./assets/aica_home.png)
+![Demo Screenshot](./assets/aica_home.png)
 
 ## Description
 AI Crypto Assistant is a real-time cryptocurrency information tool that provides data for top 50 coins by market capitalization. It integrates Binance (prices), CoinMarketCap (market data), CryptoPanic (news), and OpenAI (response generation).
@@ -65,7 +65,7 @@ AI Crypto Assistant is a real-time cryptocurrency information tool that provides
    2. Enter amount
    3. View real-time conversion
    ```
-   [Convert Screenshot](./assets/aica_convert.png)
+   ![Convert Screenshot](./assets/aica_convert.png)
 
 ## Supported Cryptocurrencies
 Top 50 coins by market cap including:
@@ -74,7 +74,7 @@ Top 50 coins by market cap including:
 - Binance Coin (BNB)
 - Solana (SOL)
 - Ripple (XRP)
-- [Full list available](./assets/top50_coins.txt)
+- ![Full list available](./assets/top50_coins.txt)
 
 ## Examples
 | Query | Response Contains |
@@ -84,7 +84,7 @@ Top 50 coins by market cap including:
 | "Convert 1 SOL to EUR" | Euro equivalent |
 | "BNB market cap" | Market capitalization and rank |
 
-[Interface Example](./assets/aica_query.png)
+![Interface Example](./assets/aica_query.png)
 
 ## Project Structure
 ```
