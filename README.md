@@ -1,6 +1,6 @@
 # AI Crypto Assistant
 
-[Demo Screenshot](./assets/home.png)
+[Demo Screenshot](./assets/aica_home.png)
 
 ## Description
 AI Crypto Assistant is a real-time cryptocurrency information tool that provides data for top 50 coins by market capitalization. It integrates Binance (prices), CoinMarketCap (market data), CryptoPanic (news), and OpenAI (response generation).
@@ -65,7 +65,7 @@ AI Crypto Assistant is a real-time cryptocurrency information tool that provides
    2. Enter amount
    3. View real-time conversion
    ```
-   [Convert Screenshot](./assets/convert.png)
+   [Convert Screenshot](./assets/aica_convert.png)
 
 ## Supported Cryptocurrencies
 Top 50 coins by market cap including:
@@ -84,21 +84,23 @@ Top 50 coins by market cap including:
 | "Convert 1 SOL to EUR" | Euro equivalent |
 | "BNB market cap" | Market capitalization and rank |
 
-![Interface Example](./assets/ai-crypto-assistant_query.png)
+[Interface Example](./assets/aica_query.png)
 
 ## Project Structure
 ```
 ai-crypto-assistant/
-├── app.py                # Main application
+├── app.py                  # Main application
 ├── utils/
-│   ├── api_connectors.py # API integrations
-│   └── ai_handler.py     # Response generation
-├── assets/               # Media files
-│   ├── demo.gif          # Screen recording
-│   └── example.png       # Interface screenshot
-├── .env                  # API keys (ignored in git)
-├── requirements.txt      # Python dependencies
-└── LICENSE               # MIT License
+│   ├── api_connectors.py   # API integrations
+│   └── ai_handler.py       # Response generation
+├── assets/                 # Media files
+│   ├── top50_coins.txt     # Screen recording
+│   ├── aica_convert.png    # Feature screenshot
+│   ├── aica_query.png      # Query example screenshot
+│   └── aica_home.png       # Interface screenshot
+├── .env                    # API keys (ignored in git)
+├── requirements.txt        # Python dependencies
+└── LICENSE                 # MIT License
 ```
 
 ## API Reference
