@@ -1,6 +1,6 @@
 # AI Crypto Assistant
 
-![Demo Screenshot](./assets/home.png)
+[Demo Screenshot](./assets/home.png)
 
 ## Description
 AI Crypto Assistant is a real-time cryptocurrency information tool that provides data for top 50 coins by market capitalization. It integrates Binance (prices), CoinMarketCap (market data), CryptoPanic (news), and OpenAI (response generation).
@@ -65,7 +65,7 @@ AI Crypto Assistant is a real-time cryptocurrency information tool that provides
    2. Enter amount
    3. View real-time conversion
    ```
-   ![Demo Screenshot](./assets/convert.png)
+   [Convert Screenshot](./assets/convert.png)
 
 ## Supported Cryptocurrencies
 Top 50 coins by market cap including:
