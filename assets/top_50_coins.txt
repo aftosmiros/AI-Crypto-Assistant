@@ -1,0 +1,50 @@
+1. Bitcoin
+2. Ethereum
+3. Tether
+4. Binance Coin
+5. Solana
+6. Ripple
+7. USD Coin
+8. Cardano
+9. Dogecoin
+10. Shiba Inu
+11. Avalanche
+12. Chainlink
+13. Polkadot
+14. Tron
+15. Polygon
+16. Toncoin
+17. Bitcoin Cash
+18. Litecoin
+19. Uniswap
+20. Internet Computer
+21. Filecoin
+22. Stellar
+23. VeChain
+24. Monero
+25. Cosmos
+26. Aave
+27. Algorand
+28. Quant
+29. NEAR Protocol
+30. Elrond
+31. Theta
+32. Flow
+33. Tezos
+34. Axie Infinity
+35. PancakeSwap
+36. EOS
+37. IOTA
+38. Klaytn
+39. Neo
+40. Curve DAO Token
+41. Kava
+42. Waves
+43. Zilliqa
+44. Decentraland
+45. The Sandbox
+46. Gala
+47. Enjin
+48. Chiliz
+49. Harmony
+50. Holo
